@@ -1,3 +1,6 @@
 # mentiontask
+Deployed link:
+https://timely-taiyaki-e1b43e.netlify.app/
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/anmolagr39/mentiontask)
+
+
